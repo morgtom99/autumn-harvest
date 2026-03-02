@@ -55,5 +55,9 @@
     "complexity": "maximal",
     "style": "photographic",
     "detail": "detailed"
-  }
+  },
+  "repository": "autumn-harvest",
+  "owner": "morgtom99",
+  "branch": "main",
+  "basePath": ""
 }
