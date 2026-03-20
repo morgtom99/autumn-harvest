@@ -58,17 +58,43 @@
     "style": "photographic",
     "detail": "detailed",
     "dimension": "3d",
-    "lighting": "ambient",
-    "texture": "none"
+    "lighting": "natural"
   },
-  "branch": "main",
-  "colorDescriptions": [
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    ""
+  "conceptPrompts": [
+    [
+      "[Subject: RED-LEAF]. A high-fidelity photographic aesthetic. Theme: Autumn Harvest. Aesthetic Context: A warm and earthy palette that evokes the feeling of a crisp autumn day.. Parameters: 3d dimension, natural lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #b38080.",
+      "[Subject: MAPLE]. A high-fidelity photographic aesthetic. Theme: Autumn Harvest. Aesthetic Context: A warm and earthy palette that evokes the feeling of a crisp autumn day.. Parameters: 3d dimension, natural lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #b38080.",
+      "[Subject: STONE]. A high-fidelity photographic aesthetic. Theme: Autumn Harvest. Aesthetic Context: A warm and earthy palette that evokes the feeling of a crisp autumn day.. Parameters: 3d dimension, natural lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #b38080."
+    ],
+    [
+      "[Subject: LEAF]. A high-fidelity photographic aesthetic. Theme: Autumn Harvest. Aesthetic Context: A warm and earthy palette that evokes the feeling of a crisp autumn day.. Parameters: 3d dimension, natural lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #A0522D.",
+      "[Subject: EARTH]. A high-fidelity photographic aesthetic. Theme: Autumn Harvest. Aesthetic Context: A warm and earthy palette that evokes the feeling of a crisp autumn day.. Parameters: 3d dimension, natural lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #A0522D.",
+      "[Subject: SOIL]. A high-fidelity photographic aesthetic. Theme: Autumn Harvest. Aesthetic Context: A warm and earthy palette that evokes the feeling of a crisp autumn day.. Parameters: 3d dimension, natural lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #A0522D."
+    ],
+    [
+      "[Subject: PUMPKIN]. A high-fidelity photographic aesthetic. Theme: Autumn Harvest. Aesthetic Context: A warm and earthy palette that evokes the feeling of a crisp autumn day.. Parameters: 3d dimension, natural lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #D2691E.",
+      "[Subject: NUTMEG]. A high-fidelity photographic aesthetic. Theme: Autumn Harvest. Aesthetic Context: A warm and earthy palette that evokes the feeling of a crisp autumn day.. Parameters: 3d dimension, natural lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #D2691E.",
+      "[Subject: FALL]. A high-fidelity photographic aesthetic. Theme: Autumn Harvest. Aesthetic Context: A warm and earthy palette that evokes the feeling of a crisp autumn day.. Parameters: 3d dimension, natural lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #D2691E."
+    ],
+    [
+      "[Subject: WOOD]. A high-fidelity photographic aesthetic. Theme: Autumn Harvest. Aesthetic Context: A warm and earthy palette that evokes the feeling of a crisp autumn day.. Parameters: 3d dimension, natural lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #8B4513.",
+      "[Subject: BRANCH]. A high-fidelity photographic aesthetic. Theme: Autumn Harvest. Aesthetic Context: A warm and earthy palette that evokes the feeling of a crisp autumn day.. Parameters: 3d dimension, natural lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #8B4513.",
+      "[Subject: LOG]. A high-fidelity photographic aesthetic. Theme: Autumn Harvest. Aesthetic Context: A warm and earthy palette that evokes the feeling of a crisp autumn day.. Parameters: 3d dimension, natural lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #8B4513."
+    ],
+    [
+      "[Subject: HAY]. A high-fidelity photographic aesthetic. Theme: Autumn Harvest. Aesthetic Context: A warm and earthy palette that evokes the feeling of a crisp autumn day.. Parameters: 3d dimension, natural lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #DAA520.",
+      "[Subject: DRY GRASS]. A high-fidelity photographic aesthetic. Theme: Autumn Harvest. Aesthetic Context: A warm and earthy palette that evokes the feeling of a crisp autumn day.. Parameters: 3d dimension, natural lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #DAA520.",
+      "[Subject: FIELD]. A high-fidelity photographic aesthetic. Theme: Autumn Harvest. Aesthetic Context: A warm and earthy palette that evokes the feeling of a crisp autumn day.. Parameters: 3d dimension, natural lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #DAA520."
+    ],
+    [
+      "[Subject: MOSS]. A high-fidelity photographic aesthetic. Theme: Autumn Harvest. Aesthetic Context: A warm and earthy palette that evokes the feeling of a crisp autumn day.. Parameters: 3d dimension, natural lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #BDB76B.",
+      "[Subject: LICHEN]. A high-fidelity photographic aesthetic. Theme: Autumn Harvest. Aesthetic Context: A warm and earthy palette that evokes the feeling of a crisp autumn day.. Parameters: 3d dimension, natural lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #BDB76B.",
+      "[Subject: GRASS]. A high-fidelity photographic aesthetic. Theme: Autumn Harvest. Aesthetic Context: A warm and earthy palette that evokes the feeling of a crisp autumn day.. Parameters: 3d dimension, natural lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #BDB76B."
+    ],
+    [
+      "[Subject: EVERGREEN]. A high-fidelity photographic aesthetic. Theme: Autumn Harvest. Aesthetic Context: A warm and earthy palette that evokes the feeling of a crisp autumn day.. Parameters: 3d dimension, natural lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #556B2F.",
+      "[Subject: PINE]. A high-fidelity photographic aesthetic. Theme: Autumn Harvest. Aesthetic Context: A warm and earthy palette that evokes the feeling of a crisp autumn day.. Parameters: 3d dimension, natural lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #556B2F.",
+      "[Subject: FOREST]. A high-fidelity photographic aesthetic. Theme: Autumn Harvest. Aesthetic Context: A warm and earthy palette that evokes the feeling of a crisp autumn day.. Parameters: 3d dimension, natural lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #556B2F."
+    ]
   ]
 }
